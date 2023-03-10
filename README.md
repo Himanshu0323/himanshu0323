@@ -19,7 +19,7 @@
 Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 </h3>
 
-- 🔭 I’m currently working on **Data Structures and Algorithms**.
+- 🔭 I’m currently working on **Lung Cancer Detection using Kullback-Leibler divergence**.
 - 🌱 I’m currently learning **Data Structures and Algorithms**.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me **himanshusingh7323@gmail.com**
