@@ -21,7 +21,6 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 
 - 🔭 I’m currently working on **Data Structures and Algorithms**.
 - 🌱 I’m currently learning **Data Structures and Algorithms**.
-- 🤝 I’m looking for help with **Data Structures and Algorithms**.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me **himanshusingh7323@gmail.com**
 - 😄 Pronouns: He/Him 
