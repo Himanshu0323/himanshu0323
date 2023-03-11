@@ -1,20 +1,12 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I am Himanshu Singh</h1>
 <h3 align="center">An UnderGrad student studying Information Technology in India</h3>
 <p align="center">
-<img width="100%" height="400" alt="GIF" src="https://cdn.dribbble.com/users/4422816/screenshots/8803765/media/fffb308d1d7a24a8687346c57ae1ff36.gif" />
+<img width="100%" height="500" alt="GIF" src="https://cdn.dribbble.com/users/4422816/screenshots/8803765/media/fffb308d1d7a24a8687346c57ae1ff36.gif" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230034F7&lines=I+am+an+aspiring+Software+Engineer.;Nice+to+e-meet+you.;Scroll+till+the+end.)](https://git.io/typing-svg)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-singh-522157193/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshusingh7323@gmail.com)
-
-
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Himanshu0323" alt="Himanshu0323"/></p>
-
-<img align="right" height="350px" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" />
-
-
 <h3 style=>
 Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 </h3>
@@ -36,5 +28,4 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 ## Some Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu0323&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
-![Himanshu GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshu0323&show_icons=true&theme=prussian)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu0323&" alt="himanshu0323" /></p>
