@@ -3,7 +3,7 @@
 <img width="100%" height="500" alt="GIF" src="https://cdn.dribbble.com/users/4422816/screenshots/8803765/media/fffb308d1d7a24a8687346c57ae1ff36.gif" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230034F7&lines=I+am+an+aspiring+Software+Engineer.;Nice+to+e-meet+you.;Scroll+till+the+end.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230034F7&lines=I+am+a+Software+Engineer.;Nice+to+e-meet+you.;Scroll+till+the+end.)](https://git.io/typing-svg)
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Himanshu0323" alt="Himanshu0323"/></p>
 <h3 style=>
